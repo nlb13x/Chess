@@ -1,7 +1,5 @@
 # Chess
 
-# CS246-Chess
-
 ## Running the binary file 
 If you have XQuartz installed, run xterm from it by going to Applications->Terminal on MacOS
 
